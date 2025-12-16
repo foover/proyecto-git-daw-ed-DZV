@@ -1,0 +1,25 @@
+/* style.css - Estilo básico para la página de DanielZ */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #2a7ae2; /* un azul llamativo */
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    max-width: 600px;
+    margin: 10px auto;
+}
+
+strong {
+    color: #e22a2a; /* resalta el nombre DanielZ en rojo */
+}
